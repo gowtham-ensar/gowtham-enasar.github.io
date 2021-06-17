@@ -1,86 +1,84 @@
 {
-  "QUESTIONNAIRE":[
+  "Questionnaire": [
     {
-      "QUESTION":“1. HAVE YOU OR SOMEONE IN YOUR HOUSEHOLD TESTED POSITIVE FOR COVID-19?”,
-      "ANSWERS":[
-        "YES",
-        "NO"
-      ],
-      "CORRECTINDEX":1
-    },
+      "correctIndex": 1, 
+      "question": "1. HAVE YOU OR SOMEONE IN YOUR HOUSEHOLD TESTED POSITIVE FOR COVID-19?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
+    }, 
     {
-      "QUESTION":“2. DO YOU HAVE ANY OF THE FOLLOWING NEW OR WORSENING SYMPTOMS OR SIGNS LIKE FEVER OR CHILLS?”,
-      "ANSWERS":[
-        "YES",
-        "NO"
-      ],
-      "CORRECTINDEX":1
-    },
+      "correctIndex": 1, 
+      "question": "2. DO YOU HAVE ANY OF THE FOLLOWING NEW OR WORSENING SYMPTOMS OR SIGNS LIKE FEVER OR CHILLS?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
+    }, 
     {
-      "QUESTION":"DIFFICULTY BREATHING OR SHORTNESS OF BREATH?",
-      "ANSWERS":[
-        "YES",
-        "NO"
-      ],
-      "CORRECTINDEX":1
-    },
+      "correctIndex": 1, 
+      "question": "DIFFICULTY BREATHING OR SHORTNESS OF BREATH?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
+    }, 
     {
-      "QUESTION":"“MUSCLE OR BODY ACHES?"",
-""ANSWERS"": [
-“YES”,
-“NO”
-],
-""CORRECTINDEX"": 1
-},
-{
-""QUESTION"": “LOSS OF TASTE OR SMELL?",
-      "ANSWERS":[
-        "YES",
-        "NO"
-      ],
-      "CORRECTINDEX":1
-    },
+      "correctIndex": 1, 
+      "question": "MUSCLE OR BODY ACHES?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
+    }, 
     {
-      "QUESTION":"“SORE THROAT?"",
-""ANSWERS"": [
-“YES”,
-“NO”
-],
-""CORRECTINDEX"": 1
-},
-{
-""QUESTION"": “CONGESTION OR RUNNY NOSE?",
-      "ANSWERS":[
-        "YES",
-        "NO"
-      ],
-      "CORRECTINDEX":1
-    },
+      "correctIndex": 1, 
+      "question": "LOSS OF TASTE OR SMELL?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
+    }, 
     {
-      "QUESTION":“3. HAVE YOU TRAVELLED OUTSIDE OF CANADA IN THE PAST 14 DAYS?”,
-      "ANSWERS":[
-        "YES",
-        "NO"
-      ],
-      "CORRECTINDEX":1
-    },
+      "correctIndex": 1, 
+      "question": "SORE THROAT?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
+    }, 
     {
-      "QUESTION":“4. HAVE YOU BEEN IN DIRECT CONTACT WITH SOMEONE WHO HAS TESTED POSITIVE FOR COVID-19 IN THE PAST 24 DAYS?”,
-      "ANSWERS":[
-        "YES",
-        "NO"
-      ],
-      "CORRECTINDEX":1
-    },
+      "correctIndex": 0, 
+      "question": "CONGESTION OR RUNNY NOSE?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
+    }, 
     {
-      "QUESTION":“5. HAVE YOU OR SOMEONE IN YOUR HOUSEHOLD BEEN DIRECTED BY A HEALTH CARE PROVIDER,
-      "INCLUDING A PUBLIC HEALTH PROFESSIONAL",
-      "TO ISOLATE?”",
-      "ANSWERS":[
-        "YES",
-        "NO"
-      ],
-      "CORRECTINDEX":1
+      "correctIndex": 1, 
+      "question": "3. HAVE YOU TRAVELLED OUTSIDE OF CANADA IN THE PAST 14 DAYS?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
+    }, 
+    {
+      "correctIndex": 1, 
+      "question": "4. HAVE YOU BEEN IN DIRECT CONTACT WITH SOMEONE WHO HAS TESTED POSITIVE FOR COVID-19 IN THE PAST 24 DAYS?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
+    }, 
+    {
+      "correctIndex": 1, 
+      "question": "5. HAVE YOU OR SOMEONE IN YOUR HOUSEHOLD BEEN DIRECTED BY A HEALTH CARE PROVIDER, INCLUDING A PUBLIC HEALTH PROFESSIONAL, TO ISOLATE?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
     }
   ]
 }
