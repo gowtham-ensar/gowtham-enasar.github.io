@@ -1,8 +1,8 @@
 {
-  "Questionnaire": [
+  "listIdentityQuestions": [
     {
       "correctIndex": 1, 
-      "question": "1. HAVE YOU OR SOMEONE IN YOUR HOUSEHOLD TESTED POSITIVE FOR COVID-19?", 
+      "question": "1. Have you or someone in your household tested positive for COVID-19?", 
       "answers": [
         "Yes", 
         "No"
@@ -10,7 +10,7 @@
     }, 
     {
       "correctIndex": 1, 
-      "question": "2. DO YOU HAVE ANY OF THE FOLLOWING NEW OR WORSENING SYMPTOMS OR SIGNS LIKE FEVER OR CHILLS?", 
+      "question": "2. Do you have any of the following new or worsening\u00a0symptoms or signs like Fever or Chills?", 
       "answers": [
         "Yes", 
         "No"
@@ -18,7 +18,7 @@
     }, 
     {
       "correctIndex": 1, 
-      "question": "DIFFICULTY BREATHING OR SHORTNESS OF BREATH?", 
+      "question": "Difficulty breathing or shortness of breath?", 
       "answers": [
         "Yes", 
         "No"
@@ -26,7 +26,7 @@
     }, 
     {
       "correctIndex": 1, 
-      "question": "MUSCLE OR BODY ACHES?", 
+      "question": "Cough?", 
       "answers": [
         "Yes", 
         "No"
@@ -34,7 +34,7 @@
     }, 
     {
       "correctIndex": 1, 
-      "question": "LOSS OF TASTE OR SMELL?", 
+      "question": "Sore throat, trouble swallowing?", 
       "answers": [
         "Yes", 
         "No"
@@ -42,15 +42,7 @@
     }, 
     {
       "correctIndex": 1, 
-      "question": "SORE THROAT?", 
-      "answers": [
-        "Yes", 
-        "No"
-      ]
-    }, 
-    {
-      "correctIndex": 0, 
-      "question": "CONGESTION OR RUNNY NOSE?", 
+      "question": "Runny nose/stuffy nose or nasal congestion?", 
       "answers": [
         "Yes", 
         "No"
@@ -58,7 +50,7 @@
     }, 
     {
       "correctIndex": 1, 
-      "question": "3. HAVE YOU TRAVELLED OUTSIDE OF CANADA IN THE PAST 14 DAYS?", 
+      "question": "Decrease or loss of smell or taste?", 
       "answers": [
         "Yes", 
         "No"
@@ -66,7 +58,7 @@
     }, 
     {
       "correctIndex": 1, 
-      "question": "4. HAVE YOU BEEN IN DIRECT CONTACT WITH SOMEONE WHO HAS TESTED POSITIVE FOR COVID-19 IN THE PAST 24 DAYS?", 
+      "question": "Nausea, vomiting, diarrhea, abdominal pain?", 
       "answers": [
         "Yes", 
         "No"
@@ -74,7 +66,31 @@
     }, 
     {
       "correctIndex": 1, 
-      "question": "5. HAVE YOU OR SOMEONE IN YOUR HOUSEHOLD BEEN DIRECTED BY A HEALTH CARE PROVIDER, INCLUDING A PUBLIC HEALTH PROFESSIONAL, TO ISOLATE?", 
+      "question": "Not feeling well, extreme tiredness, sore muscles?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
+    }, 
+    {
+      "correctIndex": 1, 
+      "question": "3. Have you travelled outside of Canada in the past 14 days?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
+    }, 
+    {
+      "correctIndex": 1, 
+      "question": "4. Have you been in direct contact with someone who has tested positive for COVID-19 in the past 14 days?", 
+      "answers": [
+        "Yes", 
+        "No"
+      ]
+    }, 
+    {
+      "correctIndex": 1, 
+      "question": "5. Have you or someone in your household been directed by a health care provider, including a public health professional, to isolate?", 
       "answers": [
         "Yes", 
         "No"
